@@ -37,3 +37,5 @@ const students = [
 // Write your code here
 
 // comment
+
+const num = 5;
